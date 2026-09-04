@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bible Bridge</string>
+    <string name="widget_description">Displays the Daily Verse of the Day on your home screen.</string>
+</resources>
