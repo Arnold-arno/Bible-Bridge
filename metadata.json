@@ -1,0 +1,6 @@
+{
+  "name": "Bible Bridge",
+  "description": "Connecting Every Verse to Its Story. Features multiple offline translations, historical context timeline, book overviews, scripture highlighting, and AI devotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
